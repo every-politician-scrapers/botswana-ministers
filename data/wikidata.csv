@@ -1,1 +1,4 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q59139097,Vincent T. Seretse,Vincent T. Seretse,,,Q59138717,Foreign Minister of Botswana,2018-01-01,Q59139097-f28f555c-459e-e239-7952-8235fac7f819
+Q6530320,Lesego Motsumi,Lesego Motsumi,,,Q61669451,Minister of Health,2008-01-01,Q6530320-312f59b3-4495-fcb1-7c4b-f7b33078aa81
+Q96626889,Thapelo Matsheka,Thapelo Matsheka,,,Q97356746,Minister of Finance,2019-11-06,Q96626889-F87B8C36-7A87-4639-98C8-52484904E7A2
