@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Botswana",
+      "id": "Q963"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q110209175",
+      "start": "2019-11-06",
+      "parent": "Q25048312"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "",
+        "title": "",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/botswana-ministers"
 }
