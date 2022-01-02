@@ -1,0 +1,173 @@
+{
+  "title": "Thapelo Matsheka",
+  "pageID": 64370377,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "People from South-East District (Botswana)",
+    "Tswana people",
+    "Finance ministers of Botswana",
+    "Botswana Democratic Party politicians",
+    "Members of the National Assembly (Botswana)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Thapelo Matsheka is a Motswana politician and economist who has been serving as the Minister of Finance and Economic Development since November 2019.",
+              "links": [
+                {
+                  "text": "Minister of Finance and Economic Development",
+                  "type": "internal",
+                  "page": "Minister of Finance (Botswana)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Thapelo Matsheka"
+                ]
+              }
+            },
+            {
+              "text": "He was elected as the Member of the National Assembly for Lobatse in October 2019.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly of Botswana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lobatse"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Botswana Democratic Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Botswana Democratic Party"
+                }
+              ]
+            },
+            {
+              "text": "Matsheka is the former Managing Director of Fiducia Services."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Motswana politician and economist",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Thapelo Matsheka"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "National Assembly of Botswana"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Finance and Economic Development",
+            "links": [
+              {
+                "text": "Minister of Finance and Economic Development",
+                "type": "internal",
+                "page": "Minister of Finance (Botswana)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Mokgweetsi Masisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mokgweetsi Masisi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 November 2019"
+          },
+          "predecessor": {
+            "text": "Kenneth Matambo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenneth Matambo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the National Assembly for Lobatse",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly of Botswana"
+              },
+              {
+                "type": "internal",
+                "page": "Lobatse"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 November 2019"
+          },
+          "predecessor1": {
+            "text": "Sadique Kebonang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sadique Kebonang"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Thapelo Matsheka"
+          },
+          "nationality": {
+            "text": "Motswana"
+          },
+          "party": {
+            "text": "Botswana Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Botswana Democratic Party"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Economist Politician"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Mpho Balopi",
+  "pageID": 66398879,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Members of the National Assembly (Botswana)",
+    "Botswana Democratic Party politicians",
+    "People from Gaborone",
+    "Microeconomists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mpho Balopi is a Motswana politician serving as the Minister of Employment, Labour Productivity and Skills Development since March 2020.",
+              "formatting": {
+                "bold": [
+                  "Mpho Balopi"
+                ]
+              }
+            },
+            {
+              "text": "He is also Secretary General for Botswana Democratic Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Botswana Democratic Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Motswana politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2008",
+          "template": "more citations needed"
+        }
+      ],
+      "infoboxes": [
+        {
+          "term_start1": {
+            "text": "6 March 2020"
+          },
+          "president1": {
+            "text": "Mokgweetsi Masisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mokgweetsi Masisi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Employment, Labour Productivity and Skills Development"
+          },
+          "name": {
+            "text": "Mpho Balopi"
+          },
+          "citizenship": {
+            "text": "Botswana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Botswana"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Motswana",
+            "links": [
+              {
+                "text": "Motswana",
+                "type": "internal",
+                "page": "Botswana"
+              }
+            ]
+          },
+          "party": {
+            "text": "Botswana Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Botswana Democratic Party"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician"
+          }
+        }
+      ]
+    }
+  ]
+}
