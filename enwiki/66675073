@@ -1,0 +1,94 @@
+{
+  "title": "Tumiso Rakgare",
+  "pageID": 66675073,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Members of the National Assembly (Botswana)",
+    "Botswana Democratic Party politicians",
+    "People from Gaborone"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tumiso Macdonald Rakgare is a Motswana politician serving as the Minister of Youth Empowerment, Sport and Culture Development.",
+              "formatting": {
+                "bold": [
+                  "Tumiso Macdonald Rakgare"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Motswana politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2021",
+          "template": "more citations needed"
+        }
+      ],
+      "infoboxes": [
+        {
+          "term_start1": {
+            "text": "6 March 2020"
+          },
+          "president1": {
+            "text": "Mokgweetsi Masisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mokgweetsi Masisi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Youth Empowerment, Sport and Culture Development"
+          },
+          "name": {
+            "text": "Tumiso Rakgare"
+          },
+          "citizenship": {
+            "text": "Botswana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Botswana"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Motswana",
+            "links": [
+              {
+                "text": "Motswana",
+                "type": "internal",
+                "page": "Botswana"
+              }
+            ]
+          },
+          "party": {
+            "text": "Botswana Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Botswana Democratic Party"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician"
+          }
+        }
+      ]
+    }
+  ]
+}
