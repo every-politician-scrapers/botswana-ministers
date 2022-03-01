@@ -67,6 +67,10 @@
       ],
       "templates": [
         {
+          "description": "Politician in Botswana",
+          "template": "short description"
+        },
+        {
           "year": "1945",
           "month": "01",
           "day": "05",
