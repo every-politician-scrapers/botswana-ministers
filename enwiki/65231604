@@ -1,128 +1,14 @@
 {
-  "title": "Anna Mokgethi",
-  "pageID": 65231604,
-  "categories": [
-    "Living people",
-    "Year of birth missing (living people)",
-    "Members of the National Assembly (Botswana)",
-    "Botswana Democratic Party politicians",
-    "21st-century women politicians",
-    "People from Gaborone"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Anna Maria Mokgethi is a Motswana politician serving as the Minister of Nationality, Immigration and Gender Affairs since November 2019.",
-              "formatting": {
-                "bold": [
-                  "Anna Maria Mokgethi"
-                ]
-              }
-            },
-            {
-              "text": "She is the Member of Parliament for Gaborone Bonnington North."
-            },
-            {
-              "text": "Mokgethi is a member of the Botswana Democratic Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Botswana Democratic Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Motswana politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Anna Mokgethi"
-          },
-          "office1": {
-            "text": "Minister of Nationality, Immigration and Gender Affairs"
-          },
-          "term_start1": {
-            "text": "6 November 2019"
-          },
-          "president1": {
-            "text": "Mokgweetsi Masisi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mokgweetsi Masisi"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Dorcas Makgato-Malesu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dorcas Makgato-Malesu"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the National Assembly for Gaborone Bonnington North",
-            "links": [
-              {
-                "text": "National Assembly",
-                "type": "internal",
-                "page": "National Assembly (Botswana)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "5 November 2019"
-          },
-          "predecessor2": {
-            "text": "Duma Boko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Duma Boko"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Motswana",
-            "links": [
-              {
-                "text": "Motswana",
-                "type": "internal",
-                "page": "Botswana"
-              }
-            ]
-          },
-          "party": {
-            "text": "Botswana Democratic Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Botswana Democratic Party"
-              }
-            ]
-          },
-          "children": {
-            "text": "Sasa Klaas"
-          },
-          "profession": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Anna Mokgethi",
+  "office1": "Minister of Nationality, Immigration and Gender Affairs",
+  "term_start1": "6 November 2019",
+  "president1": "Mokgweetsi Masisi",
+  "predecessor1": "Dorcas Makgato-Malesu",
+  "office2": "Member of the National Assembly for Gaborone Bonnington North",
+  "term_start2": "5 November 2019",
+  "predecessor2": "Duma Boko",
+  "nationality": "Motswana",
+  "party": "Botswana Democratic Party",
+  "children": "Sasa Klaas",
+  "profession": "Politician"
 }

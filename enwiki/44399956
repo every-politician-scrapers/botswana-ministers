@@ -1,330 +1,39 @@
 {
-  "title": "Mokgweetsi Masisi",
-  "pageID": 44399956,
-  "categories": [
-    "1961 births",
-    "Botswana Democratic Party politicians",
-    "Botswana educators",
-    "Florida State University alumni",
-    "Living people",
-    "Members of the National Assembly (Botswana)",
-    "Presidents of Botswana",
-    "University of Botswana alumni",
-    "Vice-presidents of Botswana",
-    "People from Moshupa",
-    "People from Gaborone"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mokgweetsi Eric Keabetswe Masisi (born 21 July 1962) is the fifth and current President of Botswana, serving since 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of Botswana"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mokgweetsi Eric Keabetswe Masisi"
-                ]
-              }
-            },
-            {
-              "text": "He served as the 8th Vice President of Botswana from 12 November 2014 to 1 April 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Vice President of Botswana"
-                }
-              ]
-            },
-            {
-              "text": "He was a Member of Parliament in the National Assembly for the Moshupa-Manyana constituency from 2009 to 2018.",
-              "links": [
-                {
-                  "text": "National Assembly",
-                  "type": "internal",
-                  "page": "National Assembly (Botswana)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Current president of Botswana",
-          "template": "short description"
-        },
-        {
-          "date": "November 2021",
-          "template": "lead too short"
-        },
-        {
-          "df": "y",
-          "year": "1961",
-          "month": "07",
-          "day": "21",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Neo Masisi",
-          "from": "2002",
-          "template": "marriage"
-        },
-        {
-          "template": "needs ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "Mokgweetsi Masisi"
-          },
-          "image": {
-            "text": "Mokgweetsi E.K. Masisi, President of the Republic of Botswana.jpg"
-          },
-          "office": {
-            "text": "5th President of Botswana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Botswana"
-              }
-            ]
-          },
-          "vicepresident": {
-            "text": "Slumber Tsogwane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Slumber Tsogwane"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 April 2018"
-          },
-          "predecessor": {
-            "text": "Ian Khama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ian Khama"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chairman of the Botswana Democratic Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Botswana Democratic Party"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 April 2017"
-          },
-          "term_end1": {
-            "text": "4 April 2018"
-          },
-          "predecessor1": {
-            "text": "Ian Khama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ian Khama"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Slumber Tsogwane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Slumber Tsogwane"
-              }
-            ]
-          },
-          "office2": {
-            "text": "8th Vice President of Botswana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice President of Botswana"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Ian Khama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ian Khama"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "12 November 2014"
-          },
-          "term_end2": {
-            "text": "1 April 2018"
-          },
-          "predecessor2": {
-            "text": "Ponatshego Kedikilwe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ponatshego Kedikilwe"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Slumber Tsogwane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Slumber Tsogwane"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of Parliament for\nMoshupa / Manyana",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (Botswana)"
-              },
-              {
-                "type": "internal",
-                "page": "Moshupa"
-              },
-              {
-                "text": "Manyana",
-                "type": "internal",
-                "page": "Manyana, Botswana"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Ian Khama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ian Khama"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2009",
-            "number": 2009
-          },
-          "term_end3": {
-            "text": "1 April 2018"
-          },
-          "predecessor3": {
-            "text": "Maitlhoko Mooka"
-          },
-          "successor3": {
-            "text": "Karabo Gare"
-          },
-          "birth_date": {
-            "text": "July 21, 1961"
-          },
-          "birth_name": {
-            "text": "Mokgweetsi Eric Keabetswe Masisi"
-          },
-          "birth_place": {
-            "text": "Moshupa, Bechuanaland (now Botswana)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moshupa"
-              },
-              {
-                "text": "Bechuanaland",
-                "type": "internal",
-                "page": "Bechuanaland Protectorate"
-              },
-              {
-                "type": "internal",
-                "page": "Botswana"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Motswana",
-            "links": [
-              {
-                "text": "Motswana",
-                "type": "internal",
-                "page": "Botswana"
-              }
-            ]
-          },
-          "party": {
-            "text": "Botswana Democratic Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Botswana Democratic Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Neo Masisi (m. 2002)"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "residence": {
-            "text": "Botswana State House"
-          },
-          "alma_mater": {
-            "text": "University of Botswana\nFlorida State University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Botswana"
-              },
-              {
-                "type": "internal",
-                "page": "Florida State University"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Teacher"
-          },
-          "occupation": {
-            "text": "Politician · teacher · author"
-          },
-          "country": {
-            "text": "Botswana"
-          },
-          "nickname": {
-            "text": "Sisiboy"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "His Excellency",
+  "name": "Mokgweetsi Masisi",
+  "image": "Mokgweetsi E.K. Masisi, President of the Republic of Botswana.jpg",
+  "office": "5th President of Botswana",
+  "vicepresident": "Slumber Tsogwane",
+  "term_start": "1 April 2018",
+  "predecessor": "Ian Khama",
+  "office1": "Chairman of the Botswana Democratic Party",
+  "term_start1": "1 April 2017",
+  "term_end1": "4 April 2018",
+  "predecessor1": "Ian Khama",
+  "successor1": "Slumber Tsogwane",
+  "office2": "8th Vice President of Botswana",
+  "president2": "Ian Khama",
+  "term_start2": "12 November 2014",
+  "term_end2": "1 April 2018",
+  "predecessor2": "Ponatshego Kedikilwe",
+  "successor2": "Slumber Tsogwane",
+  "office3": "Member of Parliament for\nMoshupa / Manyana",
+  "president3": "Ian Khama",
+  "term_start3": "2009",
+  "term_end3": "1 April 2018",
+  "predecessor3": "Maitlhoko Mooka",
+  "successor3": "Karabo Gare",
+  "birth_date": "July 21, 1961",
+  "birth_name": "Mokgweetsi Eric Keabetswe Masisi",
+  "birth_place": "Moshupa, Bechuanaland (now Botswana)",
+  "nationality": "Motswana",
+  "party": "Botswana Democratic Party",
+  "spouse": "Neo Masisi (m. 2002)",
+  "children": "1",
+  "residence": "Botswana State House",
+  "alma_mater": "University of Botswana\nFlorida State University",
+  "profession": "Teacher",
+  "occupation": "Politician · teacher · author",
+  "country": "Botswana",
+  "nickname": "Sisiboy"
 }
