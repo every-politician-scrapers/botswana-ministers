@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Botswana",
+      "id": "Q963"
+    },
+    "cabinet": {
+      "id": "Q110209175",
+      "start": "2019-11-06",
+      "parent": "Q25048312"
+    },
+    "source": {
+        "url":   "",
+        "title": "",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/botswana-ministers"
+}
