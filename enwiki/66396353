@@ -2,10 +2,16 @@
   "citizenship": "Botswana",
   "nationality": "Motswana",
   "party": "Botswana Democratic Party",
+  "alma_mater": "University of Botswana",
   "profession": "Politician",
   "name": "Peggy Serame",
-  "office1": "Minister of Investment, Trade and Industry",
-  "term_start1": "6 March 2020",
+  "office1": "Minister of Finance and Economic Development",
+  "term_start1": "16 April 2021",
   "president1": "Mokgweetsi Masisi",
-  "predecessor1": "Bogolo Kenewendo"
+  "predecessor1": "Kenneth Matambo",
+  "office2": "Minister of Investment, Trade and Industry",
+  "president2": "Mokgweetsi Masisi",
+  "term_start2": "6 November 2019",
+  "term_end2": "16 April 2021",
+  "predecessor2": "Bogolo Kenewendo"
 }
