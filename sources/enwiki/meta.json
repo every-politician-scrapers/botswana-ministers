@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+      "name": "Botswana",
+      "id": "Q963"
+    },
+    "cabinet": {
+      "id": "Q110209175",
+      "start": "2019-11-06",
+      "parent": "Q25048312"
+    },
+    "current_only": "true",
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Cabinet_of_Botswana"
+    },
+    "person_description": {
+        "en": "politician in Botswana"
+    }
+}
