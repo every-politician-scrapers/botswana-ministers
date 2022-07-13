@@ -1,22 +1,31 @@
 @@,wdid,name,position
-->,Q52714790,Slumber Tsogwane,Vice-President of Botswana->Deputy President of Botswana
-->,Q18618891,Mokgweetsi Masisi->Dr Mokgweetsi Eric Keabetswe Masisi,President of Botswana
-->,Q110210457->NULL,Karabo Gare,Minister of Agricultural Development and Food Security
-->,Q110210194->NULL,Kefentse Mzwinila,"Minister of Land Management, Water and Sanitation Services"
-->,Q110210191->NULL,Douglas Letsholathebe,"Minister of Tertiary Education, Research, Science and Technology"
-->,Q110210180->NULL,Thulaganyo Segokgo,Minister of Transport and Communications
-->,Q110210175->NULL,Eric Molale,Minister of Local Government and Rural Development
-->,Q110210172->NULL,Lefoko Moagi,"Minister of Mineral Resources, Green Technology and Energy Security"
-->,Q110210169->NULL,Mmusi Kgafela,"Minister of Investment, Trade and Industry"
-->,Q110210167->NULL,Lemogang Kwape,Foreign Minister of Botswana->Minister of International Affairs and Co-operation
-->,Q110210165->NULL,Phildah Kereng,"Minister of Environment, Natural Resources Conservation and Tourism"
-->,Q110210140->NULL,Kagiso Mmusi,"Minister of Defence, Justice and Security (Botswana)->Minister of Defence, Justice and Security"
-->,Q104837118,Peggy Serame->Peggy O. Serame,Minister of Finance->Minister of Finance and Economic Development
+->,Q98918703,Anna Mokgethi->Annah Mokgethi,"Minister of Nationality, Immigration and Gender Affairs->Minister of Labour and Home Affairs"
+->,Q52714790,Slumber Tsogwane,Vice-President of Botswana->Vice President of Botswana
+->,Q110210194,Kefentse Mzwinila,"Minister of Land Management, Water and Sanitation Services->Minister of Land and Water Affairs"
+->,Q110210175,Eric Molale->Kgotla Kenneth Autlwetse,Minister of Local Government and Rural Development
+->,Q110210169,Mmusi Kgafela,"Minister of Investment, Trade and Industry->Minister of Trade and Industry"
+->,Q110210167,Lemogang Kwape,Foreign Minister of Botswana->Minister of Foreign Affairs
+->,Q110210165,Phildah Kereng,"Minister of Environment, Natural Resources Conservation and Tourism->Minister of Environment and Tourism"
+->,Q110210164,Fedelis Molao->Dr. Douglas Letsholathebe,Minister of Education and Skills Development
+->,Q105395314,Tumiso Rakgare,"Minister of Youth Empowerment, Sport and Culture Development->Minister of Youth, Gender, Sport and Culture"
+->,Q104837118,Peggy Serame->Peggy O. Serame,Minister of Finance
+---,Q96626889,Thapelo Matsheka,Minister of Infrastructure and Housing Development
+---,Q110210457,Karabo Gare,Minister of Agricultural Development and Food Security
 ---,Q110210198,Elias Magosi,Permanent Secretary to the President of Botswana
 ---,Q110210196,Abraham Ketshabe,Attorney General of Botswana
+---,Q110210191,Douglas Letsholathebe,"Minister of Tertiary Education, Research, Science and Technology"
 ---,Q110210182,Kabo Morwaeng,"Minister of Presidential Affairs, Governance and Public Administration"
----,Q110210164,Fedelis Molao,Minister of Education and Skills Development
----,Q110210162,Edwin Dikoloti,Minister of Health
-+++,,Fidelis Molao,Minister of Basic Education
-+++,,Dr. Edwin Dikoloti,Minister of Health and Wellness
-+++,,Kabo Neal Morwaeng,"Minister for Presidential Affairs, Governance and Public Administration"
+---,Q110210180,Thulaganyo Segokgo,Minister of Transport and Communications
+---,Q110210172,Lefoko Moagi,"Minister of Mineral Resources, Green Technology and Energy Security"
+---,Q110210162,Edwin Dikoloti,Minister of Health of Botswana
+---,Q110210140,Kagiso Mmusi,"Minister of Defence, Justice and Security (Botswana)"
+---,Q104839258,Mpho Balopi,"Minister of Employment, Labour Productivity and Skills Development"
++++,,Thulagano Merafe Segokgo,"Minister of Communications, Knowledge and Technology"
++++,,Lefoko Maxwell Moagi,Minister of Minerals and Energy
++++,,Machana Ronald Shamukuni,Minister of Justice
++++,,Karabo Socraat Gare,Minister of Entrepreneurship
++++,,Eric Mothibi Molale,Ministry of Transport and Public Works
++++,,Dr. Edwin Gorataone Dikoloti,Minister of Health
++++,,Fidelis Macdonald Molao,Minister of Agriculture
++++,,Kagiso Thomas Mmusi,Minister of Defence and Security
++++,,Kabo James Moroaeng,Minister of State Presidency
