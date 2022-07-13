@@ -5,16 +5,19 @@
     },
     "cabinet": {
       "id": "Q110209175",
-      "start": "2019-11-06",
+      "start": "2022-04-22",
       "parent": "Q25048312"
     },
-    "source": {
-        "url":   "",
-        "title": "",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://twitter.com/BWGovernment/status/1517544619550072834",
+        "P1476": {
+            "text": "PRESS RELEASE - CABINET APPOINTMENTS",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/botswana-ministers"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Botswana"
+    }
 }
